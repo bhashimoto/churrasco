@@ -1,0 +1,16 @@
+{
+	"carnes":[
+		{"name":"picanha","type":"bovina"},
+		{"name":"fraldinha","type":"bovina"},
+		{"name":"maminha","type":"bovina"},
+		{"name":"costela","type":"bovina"},
+		{"name":"costela","type":"suína"},
+		{"name":"asinha","type":"frango"},
+		{"name":"coração","type":"frango"}
+	],
+	"acompanhamentos":[
+		{"name":"molho à campanha"},
+		{"name":"farofa"},
+		{"name":"arroz"}
+	]
+}
