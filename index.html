@@ -5,14 +5,15 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link href="css/style.css" rel="stylesheet">
+		<script src="test.js"></script>
 	</head>
 	<body>
-		<script src="test.js"></script>
-		<script>
-			loadData()
-		</script>
 		<h1>Hello</h1>
-		<h2 id="targetText">This is a test</h2>
-		<button onclick="changeText()">Change text</button>
+		<table id="carnes"></table>
+		<script>
+			loadData();
+			buildTable("carnes","");
+		</script>
+		
 	</body>
 </html>
